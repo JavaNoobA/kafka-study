@@ -34,7 +34,7 @@ public class ProducerSample {
 
         producerSyncSend();
 
-        producerSendWithCallback();
+        //producerSendWithCallback();
 
     }
 
